@@ -12,8 +12,9 @@ The project focuses on the automation of a fuel gas system, covering essential c
 - **Control Logic Diagram**  
 - **Bill of Materials (BoM)**  
 - **HMI Specifications**  
-- **Valve Sizing Calculations**  
-- **Single-Line Network Diagram**
+- **Instrument Specification (Calculate using Instrucalc)**  
+- **One Line Network Diagram**
+- **Hazard and Operability Study (HAZOP)**
 
 ## 🎯 Objectives
 - Demonstrate understanding of **industrial instrumentation and automation systems**  
